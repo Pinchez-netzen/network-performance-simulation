@@ -134,10 +134,10 @@ This project demonstrates:
 
  👤 Author
 
-Diana  Wakanyi Ngaruiya
+Peterson Kiboi Wairimu
 
  📬 Contact
 
 Feel free to connect or reach out for collaboration or discussion on network systems and telecommunications.
 
-Email: dianangaruiya001@gmail.com
+Email: petersonkiboi634@gmail.com
